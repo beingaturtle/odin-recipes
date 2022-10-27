@@ -1,2 +1,2 @@
-# odin-recipes
+# Recipe Website
 Creating some recipes???
